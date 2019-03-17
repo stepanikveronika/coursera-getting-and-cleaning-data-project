@@ -1,0 +1,14 @@
+#Project Description
+1)collect data
+2)prepare a tidy data set 
+
+#Raw Data 
+available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+The folder includes:
+1)'features.txt': List of all features.
+2)'activity_labels.txt': Links the class labels with their activity name.
+3)'train/X_train.txt': Training set.
+4)'train/y_train.txt': Training labels.
+5)'test/X_test.txt': Test set.
+6)'test/y_test.txt': Test labels.
